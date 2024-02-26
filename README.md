@@ -25,11 +25,11 @@
 
 ### Statistical Data 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptn-hust&show_icons=true&locale=en&layout=compact" alt="ptn-hust" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptn-hust&show_icons=true&locale=en&layout=compact" alt="ptn-hust" bg_color=#808080/></p>
 
-<br>
+<!-- <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptn-hust&show_icons=true&locale=en" alt="ptn-hust" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptn-hust&show_icons=true&locale=en" alt="ptn-hust" /></p> -->
 
 <br>
 
