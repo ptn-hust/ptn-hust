@@ -6,7 +6,7 @@
 ### About me 🌐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptn-hust&label=Profile%20views&color=0e75b6&style=flat" alt="ptn-hust" /> </p>
 
-- 🌱 I’m currently working on **Speech Processing**, mainly in **Speaker Recognition**, **Automatic Speech Recognition**, and other speech-related tasks. I'm now expanding my knowledge by learning more about **Natural Language Processing (NLP)** to better understand the meaning behind the speech.
+- 🌱 I’m currently working on **Speech Processing**, mainly in **Speaker Recognition** and other speech-related tasks. I'm now expanding my knowledge by learning more about **Speech Synthesis Technique** to enhance my expertise.
 
 - 📫 How to reach me **nhi.phamt2002@gmail.com**
 
